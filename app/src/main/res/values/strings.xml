@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ДоброПомощь</string>
+    <string name="home">Главная</string>
+    <string name="calendar">Перейти в календарь мероприятий</string>
+    <string name="card">CARD</string>
+    <string name="account">ACCOUNT</string>
+</resources>
