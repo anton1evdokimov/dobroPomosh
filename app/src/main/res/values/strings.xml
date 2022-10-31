@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">ДоброПомощь</string>
     <string name="home">Главная</string>
-    <string name="calendar">Перейти в календарь мероприятий</string>
+    <string name="goToCalendar">Перейти в календарь мероприятий</string>
+    <string name="calendar">КАЛЕНДАРЬ</string>
     <string name="card">CARD</string>
     <string name="account">ACCOUNT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
